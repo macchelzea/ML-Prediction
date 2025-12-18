@@ -55,3 +55,4 @@ class TravelModel:
     def __str__(self):
         return f"{type(self.trained_model_object).__name__}()"
     
+    
